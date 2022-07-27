@@ -19,3 +19,4 @@ Set the schedule to run your command once every five minutes. See [cron expressi
    | **Command** | `bundle exec ruby main.rb` |
 
 Save your cron job and that's it! Your command will now run every five minutes and print `Hello World from Render!` in the logs.
+
